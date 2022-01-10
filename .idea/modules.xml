@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GDSC_IIITA.iml" filepath="$PROJECT_DIR$/.idea/modules/GDSC_IIITA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GDSC_IIITA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GDSC_IIITA.app.iml" />
+    </modules>
+  </component>
+</project>

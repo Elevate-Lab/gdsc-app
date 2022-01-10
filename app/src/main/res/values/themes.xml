@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GDSCIIITA" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+        <item name="android:textViewStyle">@style/TextViewStyle</item>
+    </style>
+
+    <style name="Theme.GDSCIIITA.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.GDSCIIITA.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    <style name="Theme.GDSCIIITA.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="TextViewStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="fontFamily">@font/open_sans</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextHeading" parent="TextViewStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/open_sans_bold</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.GDSCIIITA">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

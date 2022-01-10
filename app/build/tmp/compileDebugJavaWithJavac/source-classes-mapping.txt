@@ -1,0 +1,83 @@
+com/gdsciiita/android/BR.java
+ com.gdsciiita.android.BR
+com/gdsciiita/android/data/EventDao_Impl.java
+ com.gdsciiita.android.data.EventDao_Impl
+ com.gdsciiita.android.data.EventDao_Impl$1
+ com.gdsciiita.android.data.EventDao_Impl$2
+ com.gdsciiita.android.data.EventDao_Impl$3
+ com.gdsciiita.android.data.EventDao_Impl$4
+ com.gdsciiita.android.data.EventDao_Impl$5
+ com.gdsciiita.android.data.EventDao_Impl$6
+ com.gdsciiita.android.data.EventDao_Impl$7
+ com.gdsciiita.android.data.EventDao_Impl$8
+ com.gdsciiita.android.data.EventDao_Impl$9
+com/gdsciiita/android/BuildConfig.java
+ com.gdsciiita.android.BuildConfig
+com/gdsciiita/android/databinding/MemberItemBindingImpl.java
+ com.gdsciiita.android.databinding.MemberItemBindingImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/gdsciiita/android/data/ProjectDao_Impl.java
+ com.gdsciiita.android.data.ProjectDao_Impl
+ com.gdsciiita.android.data.ProjectDao_Impl$1
+ com.gdsciiita.android.data.ProjectDao_Impl$2
+ com.gdsciiita.android.data.ProjectDao_Impl$3
+ com.gdsciiita.android.data.ProjectDao_Impl$4
+ com.gdsciiita.android.data.ProjectDao_Impl$5
+ com.gdsciiita.android.data.ProjectDao_Impl$6
+ com.gdsciiita.android.data.ProjectDao_Impl$7
+ com.gdsciiita.android.data.ProjectDao_Impl$8
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/gdsciiita/android/DataBindingTriggerClass.java
+ com.gdsciiita.android.DataBindingTriggerClass
+com/gdsciiita/android/data/MemberDatabase_Impl.java
+ com.gdsciiita.android.data.MemberDatabase_Impl
+ com.gdsciiita.android.data.MemberDatabase_Impl$1
+com/gdsciiita/android/data/MemberDao_Impl.java
+ com.gdsciiita.android.data.MemberDao_Impl
+ com.gdsciiita.android.data.MemberDao_Impl$1
+ com.gdsciiita.android.data.MemberDao_Impl$2
+ com.gdsciiita.android.data.MemberDao_Impl$3
+ com.gdsciiita.android.data.MemberDao_Impl$4
+ com.gdsciiita.android.data.MemberDao_Impl$5
+ com.gdsciiita.android.data.MemberDao_Impl$6
+ com.gdsciiita.android.data.MemberDao_Impl$7
+ com.gdsciiita.android.data.MemberDao_Impl$8
+ com.gdsciiita.android.data.MemberDao_Impl$9
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/gdsciiita/android/databinding/FragmentContactBinding.java
+ com.gdsciiita.android.databinding.FragmentContactBinding
+com/gdsciiita/android/databinding/MemberItemBinding.java
+ com.gdsciiita.android.databinding.MemberItemBinding
+com/gdsciiita/android/databinding/FragmentTeamBindingImpl.java
+ com.gdsciiita.android.databinding.FragmentTeamBindingImpl
+com/gdsciiita/android/databinding/EventItemBinding.java
+ com.gdsciiita.android.databinding.EventItemBinding
+com/gdsciiita/android/databinding/EventItemBindingImpl.java
+ com.gdsciiita.android.databinding.EventItemBindingImpl
+com/gdsciiita/android/databinding/ActivityMainBindingImpl.java
+ com.gdsciiita.android.databinding.ActivityMainBindingImpl
+com/gdsciiita/android/databinding/FragmentEventsBinding.java
+ com.gdsciiita.android.databinding.FragmentEventsBinding
+com/gdsciiita/android/databinding/ActivityMainBinding.java
+ com.gdsciiita.android.databinding.ActivityMainBinding
+com/gdsciiita/android/databinding/FragmentProjectsBinding.java
+ com.gdsciiita.android.databinding.FragmentProjectsBinding
+com/gdsciiita/android/databinding/FragmentContactBindingImpl.java
+ com.gdsciiita.android.databinding.FragmentContactBindingImpl
+com/gdsciiita/android/databinding/ProjectItemBinding.java
+ com.gdsciiita.android.databinding.ProjectItemBinding
+com/gdsciiita/android/databinding/FragmentProjectsBindingImpl.java
+ com.gdsciiita.android.databinding.FragmentProjectsBindingImpl
+com/gdsciiita/android/databinding/ProjectItemBindingImpl.java
+ com.gdsciiita.android.databinding.ProjectItemBindingImpl
+com/gdsciiita/android/databinding/FragmentEventsBindingImpl.java
+ com.gdsciiita.android.databinding.FragmentEventsBindingImpl
+com/gdsciiita/android/DataBinderMapperImpl.java
+ com.gdsciiita.android.DataBinderMapperImpl
+ com.gdsciiita.android.DataBinderMapperImpl$InnerBrLookup
+ com.gdsciiita.android.DataBinderMapperImpl$InnerLayoutIdLookup
+com/gdsciiita/android/databinding/FragmentTeamBinding.java
+ com.gdsciiita.android.databinding.FragmentTeamBinding

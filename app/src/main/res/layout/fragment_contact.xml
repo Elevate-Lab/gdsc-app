@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About GDSC"
+            android:textSize="18sp"
+            style="@style/TextHeading"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
+            android:layout_marginTop="8dp"
+            style="@style/TextViewStyle"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_marginVertical="12dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About GDSC IIITA"
+            android:textSize="18sp"
+            style="@style/TextHeading"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Google Developer Student Clubs (GDSC) is a Google Developers program for university students to learn mobile and web development skills. GDSC IIITA is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills. The club is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems."
+            android:layout_marginTop="8dp"
+            style="@style/TextViewStyle"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_marginVertical="12dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What GDSC IIITA does?"
+            android:textSize="18sp"
+            style="@style/TextHeading"/>
+
+            <RelativeLayout
+                android:layout_marginTop="12dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <ImageView
+                    android:id="@+id/img1"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/ic_project"/>
+
+                <TextView
+                    android:id="@+id/title1"
+                    style="@style/TextViewStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/img1"
+                    android:text="Projects"
+                    android:layout_marginStart="8dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    style="@style/TextViewStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/title1"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_toEndOf="@id/img1"
+                    android:text="Projects with a social impact that help a large part of society." />
+
+            </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_marginTop="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/img2"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/ic_seminars"/>
+
+            <TextView
+                android:id="@+id/title2"
+                style="@style/TextViewStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/img2"
+                android:text="Seminars"
+                android:layout_marginStart="8dp"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/TextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/title2"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_toEndOf="@id/img2"
+                android:text="Get updated with the latest news and announcements." />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_marginTop="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/img3"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/ic_hackathons"/>
+
+            <TextView
+                android:id="@+id/title3"
+                style="@style/TextViewStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/img3"
+                android:text="Hackathons"
+                android:layout_marginStart="8dp"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/TextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/title3"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_toEndOf="@id/img3"
+                android:text="Dream. Explore. Wonder. Build it Together." />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_marginTop="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/img4"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/ic_study_jams"/>
+
+            <TextView
+                android:id="@+id/title4"
+                style="@style/TextViewStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/img4"
+                android:text="Study Jams"
+                android:layout_marginStart="8dp"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/TextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/title4"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_toEndOf="@id/img4"
+                android:text="Hands-on experience with the community members." />
+
+        </RelativeLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_marginVertical="12dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:text="© 2021 GDSC IIITA"
+            android:textColor="@color/white"
+            android:background="@color/footer_black">
+        </TextView>
+
+    </LinearLayout>
+    </ScrollView>
+</layout>

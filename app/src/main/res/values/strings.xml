@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GDSC IIITA</string>
+    <string name="core_team">Core Team</string>
+    <string name="members">Members</string>
+    <string name="team">Team</string>
+    <string name="events">Events</string>
+    <string name="projects">Projects</string>
+    <string name="contact">Contact</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past Events</string>
+    <string name="about">About</string>
+</resources>

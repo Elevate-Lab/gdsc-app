@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196077169949",
+    "project_id": "gdsciiita",
+    "storage_bucket": "gdsciiita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196077169949:android:0a807ca8ea9c55637605f4",
+        "android_client_info": {
+          "package_name": "com.gdsciiita.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196077169949-75gdp0njkh2ik4u8js88kehf9ufgd50v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAODPoU2OuQx5_wPA28mSptI71UepcV1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196077169949-75gdp0njkh2ik4u8js88kehf9ufgd50v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
